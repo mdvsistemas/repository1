@@ -1,0 +1,9 @@
+Pedido do cliente Pedro da silva 
+telefone 48999998888 
+email pedrosilva@gmail.com 
+ gerado as 09/06/2024 15:29 
+
+item: COMBOS 1 xis Qtd: 1.0 valor: 25.0 observacao: None
+item: Xis Baita Qtd: 1.0 valor: 36.0 observacao: None
+
+Valor total: R$ 61.0 

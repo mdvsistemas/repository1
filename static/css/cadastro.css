@@ -1,0 +1,8 @@
+@import url(/static/css/login.css);
+
+#msgErro {
+  color: red;
+  font-size: 20px ;
+  font-weight: bold;
+  display: none;
+}

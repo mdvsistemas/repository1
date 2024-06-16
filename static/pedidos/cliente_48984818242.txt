@@ -1,0 +1,9 @@
+Pedido do cliente Marcio da Veiga 
+telefone 48984818242 
+email None 
+ gerado as 09/06/2024 15:27 
+
+item: Cerveja Heineken 600ml Qtd: 3.0 valor: 38.97 observacao: None
+item: Xis Salada Qtd: 1.0 valor: 25.0 observacao: 
+
+Valor total: R$ 63.97 
