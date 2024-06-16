@@ -159,7 +159,7 @@ def novasenha():
         conn.close()  
         return redirect('/perfil')
     else:
-        flash('Primeiro efetue seu login!')
+        flash('Para continuar, primeiro efetue seu login!')
         return redirect('/login')
     
     
